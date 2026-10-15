@@ -1,7 +1,4 @@
-![Profile Banner](https://github.com/AbdulBa4i/abdulba4i/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png)
-
-
-
+![Profile Banner](https://github.com/AbdulBa4i/abdulba4i/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Abdul Bari</h1>
 <h3 align="center">Final-Year Information Science Engineering Student | AI/ML Enthusiast | Aspiring Entrepreneur</h3>
